@@ -79,8 +79,8 @@
     - web-captains-log
     - current-community
     - fuzzy-pets
-- Calendar: https://calendar.google.com/calendar?cid=Ym9vdGNhbXBjb2RlcnNAZ21haWwuY29t
-- GitHub: https://github.com/ddc-fullstack-cohort-31
+- Calendar: https://calendar.google.com/calendar/u/0?cid=Y2xhc3Nyb29tMTA1NTUxODYwMzc2MTUyMzM4MDE0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+- GitHub: https://github.com/actx-fullstack-36
     - All relevant example and other repos posted there
     - Lecture Notes and assignments found in the lecture-notes repo
 - Rubrics
