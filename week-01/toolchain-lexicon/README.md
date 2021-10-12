@@ -1,0 +1,3 @@
+# [Lecture Recording Part1](https://cnm-edu.zoom.us/rec/share/ZPfDCFNX5Dgc_CX-_XSWPoGw1s5Hpxov7NLtTTU30Pt0xPmxmNGfgVGbdWSoNb_3.Seqn6ht61oB2HUyX?startTime=1633968017000)
+# [Lecture Recording Part2](https://cnm-edu.zoom.us/rec/share/Yyl4a0vY02_CIcsQp1mpdsTSPQFopIG8vPSR-GPe1c7VGl-kYO6nwGYnIHzIX5ES.YbTbCvXezd87rQvn?startTime=1633975412000)
+# [How to Create a Project](https://cnm-edu.zoom.us/rec/share/avf_nifNVumbruJqDWnXvLp5k34demUNiC87dctSspX0ePJZ-cR4ZJ6u2D_kTlEH.ZHoDbV7Oo1J3mQjQ?startTime=1633964260000)
