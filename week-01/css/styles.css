@@ -1,0 +1,24 @@
+/*.background-example{*/
+/*    background-color: red;*/
+/*    background: url(./img.png) no-repeat left top;*/
+
+/*}*/
+
+/*div p {*/
+/*    color: yellow;*/
+/*}*/
+
+/*div p {*/
+/*    color: red;*/
+/*}*/
+
+body {
+    color: olivedrab;
+}
+
+li.nav-item {
+    color: red;
+}
+li {
+    color: blue;
+}
