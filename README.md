@@ -22,4 +22,5 @@ All assignments are due before class at 8:00 a.m. on the due date.
     * [Example Milestones](https://ddc-web-curriculum.cnm.edu/pwp-example/)
     * [PWP Gallery](https://ddc-web-curriculum.cnm.edu/pwp-gallery/)
     * [PWP Overview](https://ddc-web-curriculum.cnm.edu/pwp/)
+    * [PWP Overview Lecture Recording](https://cnm-edu.zoom.us/rec/share/0OOalqHYhOmgF0M_mwmBaa2pvAayJfZ-ViUsCqVL6BkpkQF9rwK4J2pl3YgVTFIr.g9g3kYkTbV-ZWVzC?startTime=1634217258000)
     
