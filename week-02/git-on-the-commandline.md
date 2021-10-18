@@ -2,7 +2,7 @@
 
 ## Commands prior to starting
 - How to get Windows users to have Git Bash as their terminal:
-  -In Webstorm Go to settings -> Terminal and under Shell Path enter `
+  -In Webstorm Go to settings -> Tools -> Terminal and under Shell Path enter `
   "C:\Program Files\Git\bin\sh.exe" --login -i`
     - More info: https://stackoverflow.com/questions/27678608/git-command-is-not-recognized-on-terminal-tool-window-in-intellij-idea
 
