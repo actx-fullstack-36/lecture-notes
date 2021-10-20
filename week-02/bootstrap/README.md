@@ -1,0 +1,2 @@
+# [Bootstrap Part1](https://cnm-edu.zoom.us/rec/share/sy_kFOmKoz7bbgT0O2Z1w1kdxrm4MV_TcUKfJB0gd3qlkNW1wGVsTBva9t41QwlS.8Dx01n3s-xVjxjpa?startTime=1634649988000)
+# [Bootstrap Part2](https://cnm-edu.zoom.us/rec/share/nSGMzUM08ZarGbpbIBKeHkP1Egq8YSCFFF_PYLwcIBR-k1eF70As6hPRIBJpv8-p.hi6bvejhk4n3epKT?startTime=1634666565000)
