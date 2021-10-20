@@ -1,0 +1,1 @@
+# [Lecture Recording](https://cnm-edu.zoom.us/rec/share/qvnZdLbFmsyIV9AtydW7ikOiTnoz1U7s3WNSPJQSgae8zS1C48Yo3IG2YShvjgd9.JsYhs8YYA6WagQS6?startTime=1634740313000)
