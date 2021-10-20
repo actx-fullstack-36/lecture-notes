@@ -32,7 +32,7 @@
     - Tickets are only allowed to be marked **Complete** by explicit OK from the project stakeholders (Instructors)
     - Goal for first week Ticket Burn Down Day is to have half about half your tickets Ready for testing, and a few additional In Progress
     - Goal for second Ticket Burn Down Day is to have all tickets complete
-        - This includes the ticket to have your tickets created for next sprint!
+      
     - Testing consists of
         - Reviewing the user story
         - Showing the Instructor how your code addresses the user story
