@@ -5,7 +5,8 @@
     - https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch
     - add teammates to the organization
     - add the bridge as collaborators to the capstone repo
-3. discuss your vision and goals for this capstone
+3. Create, and ground rules ald post them in group slack channel. 
+4. discuss your vision and goals for this capstone
     - submit your vision and goals for approval
     - the one and ONLY item that's informal
 ## Data Design Tasks
