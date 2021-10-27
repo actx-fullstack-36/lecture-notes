@@ -125,7 +125,7 @@ for (let currentValue = 0; currentValue < 10; currentValue = currentValue + 1) {
 Something that happens on every page visit. These are the most important events.
 - `DOMContentLoaded` AKA **ready**: ALL HTML is loaded and we have a plain black-and-white version of the page - images, CSS, JavaScript still loading
 - `load` : all images, CSS, and JavaScript are loaded - **cursor is no longer busy**
-  the timeline events are very important for these key reasons:
+- the timeline events are very important for these key reasons:
 - users don't get full control until `load`
 - JavaScript files (custom and libraries) often have to wait for `load` to manipulate data
 - these events show you how fast your site is
