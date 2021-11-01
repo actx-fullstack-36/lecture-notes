@@ -9,6 +9,7 @@
 - Abstraction enables the writing of **declarative** **DRY** code necessary for functional programming
 
 ## Functions As First-Class Values
+- Higher Order Function: a function that takes another function as an argument and executes the function, or returns a new function.
 - In Javascript functions can be assigned to variables
 * JavaScript loves functions even more than most other languages
 * We can call functions on functions (on functions on functions on functions etc.)
