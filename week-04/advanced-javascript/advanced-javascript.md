@@ -79,4 +79,5 @@
     const arrayBackToString = array.reduce((accumulator, currentValue) => {
     	return accumulator + currentValue
     })
+
     ```
