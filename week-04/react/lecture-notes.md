@@ -13,7 +13,6 @@
         * className instead class
     * Can write javascript in html  with JSX using {}
         * possible to render a single variable, function or brand new component
-        * code example
     * Style attribute must be a double `{{}}` and styles follow a key pair syntax like objects
         * *Inline styling is okay in react but better to use global style sheet or an individual style sheet for each component.*
     * Possible to create custom attributes called props that can be used to pass parameters into components
