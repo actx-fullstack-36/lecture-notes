@@ -11,12 +11,11 @@ Lecture notes, assignments, and other resources for Fullstack Cohort 36. This re
 ### Outstanding
 
 All assignments are due before class at 8:00 a.m. on the due date.
- 
-* [Bootstrap Challenge Due 10/26](https://classroom.github.com/a/ElznAJTk)
-* [PWP Milestone2 Due 10/28](https://ddc-web-curriculum.cnm.edu/pwp-milestone-two/)
-  * [Figma Resources](https://gist.github.com/GKephart/fc9d46690324a29c4120956f94ca3227)
+* [React Challenge Dues Tuesday 11/10](https://classroom.github.com/a/EA4yu8E7)
+  * [React Example](https://github.com/actx-fullstack-36/react-example)
 
 ### Completed
+
 * [Ux/UI Challenge DUE Monday 10/18](https://classroom.github.com/a/hyeeyN_A)
 * [CSS Challenge Due Wednesday 10/19](https://classroom.github.com/a/zndNPSSC)
   *  [CSS Tricks Flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -30,4 +29,7 @@ All assignments are due before class at 8:00 a.m. on the due date.
   * [PWP Gallery](https://ddc-web-curriculum.cnm.edu/pwp-gallery/)
   * [PWP Overview](https://ddc-web-curriculum.cnm.edu/pwp/)
   * [PWP Overview Lecture Recording](https://cnm-edu.zoom.us/rec/share/0OOalqHYhOmgF0M_mwmBaa2pvAayJfZ-ViUsCqVL6BkpkQF9rwK4J2pl3YgVTFIr.g9g3kYkTbV-ZWVzC?startTime=1634217258000)
+  * [Bootstrap Challenge Due 10/26](https://classroom.github.com/a/ElznAJTk)
+* [PWP Milestone2 Due 10/28](https://ddc-web-curriculum.cnm.edu/pwp-milestone-two/)
+  * [Figma Resources](https://gist.github.com/GKephart/fc9d46690324a29c4120956f94ca3227)
   
