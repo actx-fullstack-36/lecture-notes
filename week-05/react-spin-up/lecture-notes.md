@@ -4,7 +4,7 @@ Link to our repo with instructions: https://github.com/actx-fullstack-36/react-s
 
 ### Technologies we use as part of the React stack
 - Node.js - allows us to use javascript on the server, outside of the browser
-- npm - Node Package Manager - grabs node libraries and installs them on our computer
+- npm - ~~Node Package Manager~~ - grabs node libraries and installs them on our computer
     - We need this in order to install Create React App
     - npx - the script executing tool for npm
 - Babel - takes new JS syntax and automatically backports it to format that works cross-browser
