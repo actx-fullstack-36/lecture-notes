@@ -48,7 +48,7 @@
 - `SELECT  column1, column2, column3, column4, from table WHERE condition = true;`
 - `SELECT tweetId, tweetProfileId, tweetContent, tweetDate from tweet WHERE tweetProfileId = UUID_TO_BIN("2435f00e555d455d92fdf34f1dd255e2");`
     - Statement grabs all tweets from user `"2435f00e555d455d92fdf34f1dd255e2"`
--  SELECT tweetId, tweetProfileId, tweetContent, tweetDate from tweet WHERE tweetContent LIKE "%fuzzy%"`;
+-  `SELECT tweetId, tweetProfileId, tweetContent, tweetDate from tweet WHERE tweetContent LIKE "%fuzzy%"`;
     - like allows for partial matchs https://www.tutorialspoint.com/mysql/mysql-like-clause.htm
     - can use an equality after the where statement.
 
