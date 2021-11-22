@@ -36,4 +36,4 @@
 * [Example router](https://github.com/Deep-Dive-Coding-Fullstack-Licensing/example-capstone/blob/development/backend/src/apis/tweet/tweet.route.ts)
 
 ## How to get express on your capstone
-https://github.com/Deep-Dive-Coding-Fullstack-Licensing/express-spinup-instructions
+https://github.com/actx-fullstack-36/express-spinup-instructions
