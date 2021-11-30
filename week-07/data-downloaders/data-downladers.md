@@ -27,7 +27,7 @@
     - [browser, database, insomnia (which is kinda basically like a browser)]
 
 ## Example
-```
+``` typescript
 import axios from "axios"
 
 interface Post {
